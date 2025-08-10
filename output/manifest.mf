@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Revision-Number: 2
+Main-Class: HelloJava2Args

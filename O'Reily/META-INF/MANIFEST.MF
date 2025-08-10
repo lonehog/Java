@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Revision-Number: 2
+Created-By: 24.0.2 (Arch Linux)
+
